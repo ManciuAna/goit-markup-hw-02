@@ -1,0 +1,32 @@
+:root{
+    --primary-color:background: #4D5AE5;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+.header-link {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.header-link-active{
+    color: var(--primary-color);
+}
+.logo{
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
