@@ -78,9 +78,9 @@ address {
   color: #ffffff;
 }
 
-.button:hover,
+.button:hover{background-color: #404BBF; },
 .button:focus {
-  background-color: #4d5ae5;
+  background-color: #404BBF;
 }
 
 .quality-list-title {
@@ -160,11 +160,13 @@ address {
 .footer-paragraph {
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.17; 
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
 
 .design-logo {
+   font-family: "Raleway", sans-serif; 
   color: #f4f4fd;
+  
 }
