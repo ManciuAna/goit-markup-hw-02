@@ -77,10 +77,7 @@ address {
   color: #ffffff;
 }
 
-.button:hover {
-  background-color: #404BBF;
-}
-,
+.button:hover,
 .button:focus {
   background-color: #404BBF;
 }
