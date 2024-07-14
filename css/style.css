@@ -59,14 +59,14 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--iris);
+  color:#2e2f42;
 }
 
 .header-link {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
+  color:#2e2f42;
 }
 
 .header-link:hover,
@@ -81,7 +81,8 @@ address {
 .address-contact {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--slate);
+  color:#434455;
+  ;
 }
 
 .address-contact:hover,
@@ -90,7 +91,7 @@ address {
 }
 
 .section-hero {
-  background-color: var(--navy-blue);
+  background-color:#2e2f42;
 }
 
 .hero-title {
@@ -99,7 +100,7 @@ address {
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
-  background: #2e2f42;
+  background:#2e2f42;
 }
 
 .button {
@@ -111,7 +112,7 @@ address {
   font-weight: 500;
   line-height: 1.5;
   color: #ffffff;
-  background: #4d5ae5;
+  background:#4d5ae5;
 }
 
 .button:hover,
@@ -124,7 +125,7 @@ address {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
+  color:#2e2f42;
 }
 
 .quality-list_description {
@@ -147,7 +148,7 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
-  color: var(--navy-blue);
+  color:#2e2f42;
 }
 
 .team-list-name {
@@ -156,7 +157,7 @@ address {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
-  color: var(--navy-blue);
+  color:#2e2f42;
 }
 
 .team-list-job {
@@ -172,7 +173,7 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
-  color: var(--navy-blue);
+  color:#2e2f42;
 }
 
 .portfolio-list-title {
@@ -180,7 +181,7 @@ address {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
+  color: #2e2f42;
 }
 
 .portfolio-list-description {
@@ -190,7 +191,7 @@ address {
 }
 
 .footer-section {
-  background-color: var(--navy-blue);
+  background-color: #2e2f42;
 }
 
 .footer-paragraph {
