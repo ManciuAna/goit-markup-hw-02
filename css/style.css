@@ -1,4 +1,4 @@
-body{
+body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
   color: #434455;
@@ -78,11 +78,12 @@ address {
 }
 
 .button:hover {
-  background-color: #4d5ae5;
+  background-color: #404BBF;
 }
 ,
 .button:focus {
-  background-color: #404BBF;}
+  background-color: #404BBF;
+}
 
 .quality-list-title {
   font-weight: 500;
