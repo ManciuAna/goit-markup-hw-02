@@ -89,7 +89,7 @@ address {
   color: var(--ocean);
 }
 
-.hero {
+.section-hero{
   background-color: var(--navy-blue);
 }
 
@@ -98,7 +98,8 @@ address {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  color: var(--white);
+  color: #FFFFFF;
+  background: #2e2f42;
 }
 
 .button {
