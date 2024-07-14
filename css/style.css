@@ -82,8 +82,7 @@ address {
 }
 ,
 .button:focus {
-  background-color: #404BBF;
-}
+  color: #404BBF;}
 
 .quality-list-title {
   font-weight: 500;
