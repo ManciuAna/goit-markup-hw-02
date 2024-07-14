@@ -4,14 +4,6 @@ body {
   color: #434455;
 }
 
-a {
-  text-decoration: none;
-}
-
-ul {
-  list-style-type: none;
-}
-
 .logo {
   font-family: Raleway;
   font-size: 18px;
