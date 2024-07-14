@@ -77,8 +77,8 @@ address {
   cursor: pointer;
 }
 
-.button:hover,
-.button:focus {
+.order-button:hover:hover,
+.order-button:focus {
   background-color: #404bbf;
 }
 
