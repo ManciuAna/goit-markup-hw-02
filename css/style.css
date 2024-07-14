@@ -1,8 +1,4 @@
-:root{
-    --primary-color:background: #4D5AE5;
-}
-
-body {
+body{
   font-family: "Raleway", sans-serif;
 }
 .header-link {
@@ -22,11 +18,23 @@ body {
   font-weight: 700;
   line-height: 21px;
   letter-spacing: 0.03em;
-  font-family: Raleway;
-font-size: 18px;
-font-weight: 700;
-line-height: 21px;
-letter-spacing: 0.03em;
+  color:#4D5AE5;
+  
+}
+.studio-text{
+    color:#2E2F42;
+    ;
+}
+
+.header-link-active{
+//styleName: Body Medium;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
 text-align: left;
+color: #2E2F42;
+
 
 }
